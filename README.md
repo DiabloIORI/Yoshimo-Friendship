@@ -16,7 +16,6 @@ Baldur's Gate Trilogy and EET<h3>
 
 
 **Author:** Shadowhawke  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/yoshimo">Spellhold Studios</a>  
 **Mod Forum:** <a href="http://www.shsforums.net/forum/574-yoshimo-friendship/">Yoshimo Friendship</a>
 
 
@@ -53,7 +52,7 @@ This mod adds a series of dialogues with Yoshimo, our favourite charming knave w
 Written by Shadowhawke, author of many popular BGII fan-fiction stories and contributor to the Khadion NPC mod, the Yoshimo friendship is a must-install for anyone with a fondness for him.
 
 
-Visit the <a href="http://www.spellholdstudios.net/ie/yoshimo">website</a> or <a href="http://www.shsforums.net/forum/574-yoshimo-friendship/">forum</a> for all the latest updates.
+Visit the <a href="http://www.shsforums.net/forum/574-yoshimo-friendship/">forum</a> for all the latest updates.
 
 
 <hr>
@@ -149,7 +148,7 @@ In addition to the methods above for removing individual components, you can com
 ## <a name="faq" id="faq"></a>Frequently Asked Questions
 
 **Q: Is the Yoshimo Friendship compatible with XYZ mod?**  
-A: It most certainly should be, but we have not tested it with every single mod available. If you do encounter an error, please contact <a href="kae@spellholdstudios.net">K'aeloree</a> or alternatively post on the <a href="http://www.shsforums.net/forum/574-yoshimo-friendship/">forums</a>.
+A: It most certainly should be, but we have not tested it with every single mod available. If you do encounter an error, please report it on the <a href="http://www.shsforums.net/forum/574-yoshimo-friendship/">forums</a>.
 
 **Q: When will the friendship start?**  
 A: It will begin after Yoshimo has his canon PC dialogues, of which there are 3. Expect the first of these around an hour after Yoshimo joins the party.
